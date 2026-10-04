@@ -1,0 +1,12 @@
+# catkin 在 src 里生成的顶层文件
+/CMakeLists.txt
+/.catkin_workspace
+# Python
+__pycache__/
+*.pyc
+# 编辑器
+.vscode/ipch/
+*.swp
+*~
+# 录制数据
+*.bag
